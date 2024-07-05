@@ -15,7 +15,7 @@
 
 ### Thành viên nhóm
 
-| STT | Họ tên | MSSV | Email | Github |
+| Order Number | Name | Student Code | Email | Github |
 | :---: | --- | --- | --- | --- |
 | 1 | Tien-Huy Nguyen | 22520567 | 22520567@gm.uit.edu.vn | [huynt]([https://github.com/tamtam24](https://github.com/huynt654)) |
 | 2 | Huu-Phong Phan-Nguyen | 22521090 | 22521090@gm.uit.edu.vn | [fonzi22]([https://github.com/4k4m](https://github.com/fonzi22)) |
